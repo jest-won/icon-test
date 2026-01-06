@@ -1,0 +1,11 @@
+{
+  "name": "icon-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "icona:generate": "node icona.js"
+  },
+  "devDependencies": {
+    "@icona/generator": "^0.9.2"
+  }
+}
